@@ -1,16 +1,37 @@
-### Hi there 👋
+ # Hello, (world?) 📌
+ 
+- 🥶 **Olá, meu nome é Vínicius Ferreira!** 🥶 
+- 🖥️ **(Quase) Técnico em Informática pelo CEFET-MG**🖥️
+##
+- **Main Languages:** 
+- <img align="center" alt="SrVinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SrVinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="SrVinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SrVinicius-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+##
 
-<!--
-**SrVinicius/SrVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Secondary Languages:**
+- <img align="center" alt="SrVinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="SrVinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="SrVinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+##
 
-Here are some ideas to get you started:
+- **A little bit about me:**
+- 🎮 
+- 🏋️‍♂️
+- 🎸
+- 🎧
+- 🎤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<img align="center" alt="SrVinicius" src="https://media.discordapp.net/attachments/833375071305334825/911386473381634158/33b9b9282a9f0834d746dc368d7d1f32.gif">
+  
+
+<div>
+  <a href="https://github.com/SrVinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrVinicius&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVinicius&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+
