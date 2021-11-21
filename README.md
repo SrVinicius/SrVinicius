@@ -1,6 +1,6 @@
  # Hello, (world?) 📌
  
-- 🥶 **Olá, meu nome é Vínicius Ferreira!** 🥶 
+-     **Olá, meu nome é Vínicius Ferreira!** 
 - 🖥️ **(Quase) Técnico em Informática pelo CEFET-MG**🖥️
 ##
 - **Main Languages:** 
