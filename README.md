@@ -1,4 +1,4 @@
- # Hello, (world?) 📌
+ # Olá! 📌
  
 - **Me chamo Vínicius Ferreira!** 
 - 🖥️ **Técnico em Informática pelo CEFET-MG**
