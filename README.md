@@ -1,7 +1,8 @@
- # Olá! 📌
+ # Hello!! 📌
  
-- **Me chamo Vínicius Ferreira!** 
-- **Técnico em Informática pelo CEFET-MG**
+- **My name is Vínicius Ferreira!** 
+- **Studied at CEFET-MG**
+- **Web-developer at Coletek**
 
 ##
 - **Main Languages:** 
