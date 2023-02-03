@@ -23,7 +23,6 @@
  
 ##
  
-<img align="center" alt="SrVinicius" src="https://media.discordapp.net/attachments/833375071305334825/911386473381634158/33b9b9282a9f0834d746dc368d7d1f32.gif">
 
  
   
