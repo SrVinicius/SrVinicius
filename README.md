@@ -8,7 +8,7 @@
 - **Main Languages:** 
 - <img align="center" alt="SrVinicius-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 - <img align="center" alt="SrVinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SrVinicius-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+-  <img align="center" alt="SrVinicius-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 ##
 <div>
   <a href="https://github.com/SrVinicius">
