@@ -7,14 +7,9 @@
 ##
 - **Main Languages:** 
 - <img align="center" alt="SrVinicius-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+- <img align="center" alt="SrVinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SrVinicius-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 ##
-
-- **Secondary Languages:**
-- <img align="center" alt="SrVinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="SrVinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-##
-
 <div>
   <a href="https://github.com/SrVinicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
