@@ -1,4 +1,4 @@
- # Hello!! 📌
+ # Hello! 📌
  
 - **My name is Vínicius Ferreira!** 
 - **Studied at CEFET-MG**
