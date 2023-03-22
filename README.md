@@ -1,7 +1,7 @@
  # Hello! 📌
  
 - **My name is Vínicius Ferreira!** 
-- **Studied at CEFET-MG**
+- **Student at CEFET-MG**
 - **Web developer at Coletek**
 
 ##
