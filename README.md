@@ -2,7 +2,7 @@
  
 - **My name is Vínicius Ferreira!** 
 - **Studied at CEFET-MG**
-- **Web-developer at Coletek**
+- **Web developer at Coletek**
 
 ##
 - **Main Languages:**
