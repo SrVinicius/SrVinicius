@@ -1,6 +1,6 @@
  # Hello! 📌
  
-- **My name is Vínicius Ferreira!** 
+- **My name is Vínicius!** 
 - **Student at CEFET-MG**
 - **Web developer at [Coletek](https://coletek.com.br)**
 
