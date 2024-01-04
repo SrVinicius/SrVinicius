@@ -2,7 +2,7 @@
  
 - **My name is Vinicius!** 
 - **Student at CEFET-MG**
-- **Web developer at [Coletek](https://coletek.com.br)**
+- **Web developer at Coletek**
 
 ##
 - **Main Languages:**
