@@ -1,6 +1,6 @@
  # Hey! 📌
  
-- **My name is Vinicius!** 
+- **I'm Vinicius!** 
 - **Student at CEFET-MG**
 - **Web developer at Coletek**
 
